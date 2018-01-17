@@ -1,0 +1,186 @@
+/* CSS Document */
+
+#header, #index, #core, #footer{
+	margin-left: 300px;
+	width: 525px;
+	border-style: solid;
+    border-left-width: 1px;
+	border-right-width: 1px;
+}
+
+body{
+	background-color: #D6FFDD;
+}
+
+#grad{
+	height: 300px;
+	background: linear-gradient(#75EBFF, #D6FFDD);
+}
+#contenedor{
+	background-image: url(../Imagenes/nubes.png);
+	background-repeat: no-repeat;
+}
+ 
+#header{
+	display: -webkit-flex;
+	display: -ewbkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	
+	flex-direction: row;
+	align-items: center;
+}
+
+#cuadro{
+	background-color: #FF8000;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #007D00;
+	border-radius: 10px;
+	margin: 13px;
+	margin-left: 40px;
+}
+
+#cuadro>figure{
+	padding: 5px;
+	padding-bottom: 2px;
+}
+
+#gardenia{
+	font-family: FORTE, "sans-serif";
+	font-size: 20px;
+	padding: 5px;
+	padding-bottom: 5px;
+}
+
+#cuadro>#subg{
+	font-size: 12px;
+	padding-bottom: 10px;
+}
+
+#arbol{
+	padding: 10px;
+}
+
+#eslogan{
+	margin-right: 20px;
+}
+
+#eslogan>#subg{
+	font-family: Bradley Hand ITC;
+}
+
+#index{	
+	background-color: #4C4C4C;
+}
+
+#index>#menu{
+	display: -webkit-flex;
+	display: -ewbkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	
+	flex-direction: row;
+	margin-left: 30px;
+}
+#index>#menu>#boton{
+	margin-top: 4px;
+	margin-bottom: 4px;
+	margin-right: 3px;
+	padding: 3px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #666666;
+}
+
+#core{
+	display: -webkit-flex;
+	display: -ewbkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	
+	flex-direction: row;
+}
+
+#nav{
+	display: -webkit-flex;
+	display: -ewbkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	
+	flex-direction: column;
+	background-color: white;
+}
+
+#navitazo{
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 0xp;
+	padding: 5px;
+	background-color: #6EEEFF
+}
+
+#navito{
+	margin: 5px;
+	margin-top: 0px;
+	padding: 5px;
+	background-color: #E3FAFF;
+}
+
+#section{
+	background-color: white;
+}
+
+#article1{
+	display: -webkit-flex;
+	display: -ewbkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	
+	flex-direction: row;
+}
+
+#libro{
+	display: -webkit-flex;
+	display: -ewbkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	
+	flex-direction: column;
+}
+figure>#cuadro{
+	font-family: Bradley Hand ITC;
+	width: 80px;
+	margin-left: 25px;
+}
+
+p{
+	padding-bottom: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#footer{
+	display: -webkit-flex;
+	display: -ewbkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	
+	flex-direction: row;
+	flex-wrap: wrap;
+	
+	padding-left: 25px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	width: calc(525px - 25px);
+	background-color: #4C4C4C;
+}
+#footer>figure{
+	display: -webkit-flex;
+	display: -ewbkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	
+	margin: 3px;
+}

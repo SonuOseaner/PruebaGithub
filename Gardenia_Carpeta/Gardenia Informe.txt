@@ -1,0 +1,156 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: Gardenia.ai
+Modo de color: Color RGB
+Perfil de color: Adobe RGB (1998)
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 896 px x 600 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Bradley Hand ITC (OTF)
+Arial (OTF)
+Forte (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+d:\Users\Usuario\Documents\Artisteer Templates\Artisteer1\images\object1595946777.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 144K, 212 por 175 píxeles
+Dimensiones: 125 por 111 puntos 
+Resolución: 122,112 por 113,514 píxeles por pulgada
+
+
+d:\Users\Usuario\Documents\Artisteer Templates\Artisteer1\images\object1490112259.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 30K, 89 por 87 píxeles
+Dimensiones: 66,75 por 65,25 puntos 
+Resolución: 96 por 96 píxeles por pulgada
+
+
+d:\Users\Usuario\Documents\Artisteer Templates\Artisteer1\images\footertwittericon.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 4K, 32 por 32 píxeles
+Dimensiones: 24 por 24 puntos 
+Resolución: 96 por 96 píxeles por pulgada
+
+
+d:\Users\Usuario\Documents\Artisteer Templates\Artisteer1\images\footerrssicon.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 3K, 30 por 30 píxeles
+Dimensiones: 22,5 por 22,5 puntos 
+Resolución: 96 por 96 píxeles por pulgada
+
+
+d:\Users\Usuario\Documents\Artisteer Templates\Artisteer1\images\footerfacebookicon.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 4K, 32 por 32 píxeles
+Dimensiones: 24 por 24 puntos 
+Resolución: 96 por 96 píxeles por pulgada
+
+
+d:\Users\Usuario\Documents\Artisteer Templates\Artisteer1\images\linkedinicon.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 4K, 32 por 32 píxeles
+Dimensiones: 24 por 24 puntos 
+Resolución: 96 por 96 píxeles por pulgada
+
+
+d:\Users\Usuario\Documents\Artisteer Templates\Artisteer1\images\youtubeicon.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 4K, 32 por 32 píxeles
+Dimensiones: 24 por 24 puntos 
+Resolución: 96 por 96 píxeles por pulgada
+
+
+d:\Users\Usuario\Documents\Artisteer Templates\Artisteer1\images\vimeoicon.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 4K, 32 por 33 píxeles
+Dimensiones: 24 por 24,75 puntos 
+Resolución: 96 por 96 píxeles por pulgada
+
+
+d:\Users\Usuario\Documents\Artisteer Templates\Artisteer1\images\tumblricon.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 4K, 32 por 32 píxeles
+Dimensiones: 24 por 24 puntos 
+Resolución: 96 por 96 píxeles por pulgada
+
+
+d:\Users\Usuario\Documents\Artisteer Templates\Artisteer1\images\pinteresticon.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 4K, 32 por 32 píxeles
+Dimensiones: 24 por 24 puntos 
+Resolución: 96 por 96 píxeles por pulgada
+
+
+d:\Users\Usuario\Documents\Artisteer Templates\Artisteer1\images\contnt-image-01.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 364K, 437 por 285 píxeles
+Dimensiones: 210,067 por 137 puntos 
+Resolución: 149,781 por 149,781 píxeles por pulgada
+
+
+d:\Users\Usuario\Documents\Artisteer Templates\Artisteer1\images\contnt-image-02.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 109K, 241 por 155 píxeles
+Dimensiones: 91 por 58,527 puntos 
+Resolución: 190,681 por 190,681 píxeles por pulgada
+
+
+d:\Users\Usuario\Documents\Artisteer Templates\Artisteer1\images\rss.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 40K, 128 por 81 píxeles
+Dimensiones: 53,728 por 34 puntos 
+Resolución: 171,529 por 171,529 píxeles por pulgada
